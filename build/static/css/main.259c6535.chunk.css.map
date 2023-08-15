@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,EACE,cACF,CAEA,iBACE,kBACF","file":"main.259c6535.chunk.css","sourcesContent":["i {\r\n  cursor: pointer;\r\n}\r\n\r\nbody.dark footer {\r\n  background: #343a40;\r\n}\r\n"]}
