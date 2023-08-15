@@ -22,7 +22,7 @@ router.post(
     //   If there are error, return bad requests and the errors
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-      return res.status(400).json({success, errors: errors.array()});
+      return res.status(400).json({success:"success", errors: errors.array()});
     }
 
     // Check whether the user with this email exists already
@@ -118,7 +118,7 @@ router.post(
 // Route 3: Get logged in user details using: POST "/api/auth/getuser". Login required
 router.post("/getuser", fetchuser, async (req, res) => {
   try {
-    userId = req.user.id;
+    const userId = req.user.id;
     const user = await User.findById(userId).select("-password");
     res.send(user);
   } catch (error) {
