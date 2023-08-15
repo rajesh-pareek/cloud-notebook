@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.259c6535.chunk.css",
-    "main.js": "/static/js/main.6fe914f4.chunk.js",
-    "main.js.map": "/static/js/main.6fe914f4.chunk.js.map",
+    "main.css": "/static/css/main.ae8fd7c5.chunk.css",
+    "main.js": "/static/js/main.7454d005.chunk.js",
+    "main.js.map": "/static/js/main.7454d005.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.95acbaef.js",
     "runtime-main.js.map": "/static/js/runtime-main.95acbaef.js.map",
     "static/js/2.564add54.chunk.js": "/static/js/2.564add54.chunk.js",
     "static/js/2.564add54.chunk.js.map": "/static/js/2.564add54.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.259c6535.chunk.css.map": "/static/css/main.259c6535.chunk.css.map",
+    "static/css/main.ae8fd7c5.chunk.css.map": "/static/css/main.ae8fd7c5.chunk.css.map",
     "static/js/2.564add54.chunk.js.LICENSE.txt": "/static/js/2.564add54.chunk.js.LICENSE.txt",
     "static/media/banner1.d6e3c02a.jfif": "/static/media/banner1.d6e3c02a.jfif",
     "static/media/banner2.f074da80.jfif": "/static/media/banner2.f074da80.jfif",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.95acbaef.js",
     "static/js/2.564add54.chunk.js",
-    "static/css/main.259c6535.chunk.css",
-    "static/js/main.6fe914f4.chunk.js"
+    "static/css/main.ae8fd7c5.chunk.css",
+    "static/js/main.7454d005.chunk.js"
   ]
 }
